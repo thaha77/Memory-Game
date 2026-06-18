@@ -25,4 +25,4 @@ A classic card matching game built with HTML, CSS, and JavaScript. Challenge you
 3. (Recommended) Use the "Live Server" extension in VS Code for the best experience.
 
 ---
-*Built with passion by Black Shadow.*
+*Built with passion by Black Shadow.
